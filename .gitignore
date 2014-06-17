@@ -21,3 +21,10 @@ pom.xml.*
 local.properties
 build.xml
 proguard-project.txt
+
+### Gradle ###
+.gradle
+build/
+
+# Ignore Gradle GUI config
+gradle-app.setting
